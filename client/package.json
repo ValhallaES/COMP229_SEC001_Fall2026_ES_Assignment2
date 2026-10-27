@@ -1,0 +1,6 @@
+{
+  "name": "client",
+  "private": true,
+  "type": "module",
+  "//": "All packages and scripts are in the root package.json. Run npm install / npm run dev from the MyPortfolio folder."
+}
